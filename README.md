@@ -1,4 +1,4 @@
-# 6-month training plan focusing on building strength 
+# 6-month training plan for building strength 
 
 ### Training Plan Structure:
 
