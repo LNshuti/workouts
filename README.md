@@ -3,13 +3,13 @@
 ### Training Plan Structure:
 
 **Weeks 1-6: Foundation Phase**
-- Focus on building a solid foundation with moderate weights and higher repetitions to prepare the body for heavier loads.
+- Build a solid foundation with moderate weights and higher repetitions to prepare the body for heavier loads.
 
 **Weeks 7-12: Strength Phase**
 - Increase weights and lower repetitions to build strength.
 
 **Weeks 13-18: Hypertrophy Phase**
-- Focus on moderate weights with higher repetitions to maximize muscle growth.
+- Moderate weights with higher repetitions to maximize muscle growth.
 
 **Weeks 19-24: Advanced Strength and Hypertrophy Phase**
 - Combine heavy lifting with hypertrophy techniques like drop sets and supersets for maximum gains.
